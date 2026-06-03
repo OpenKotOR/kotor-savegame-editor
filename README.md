@@ -66,5 +66,6 @@ exit # EXIT CPAN CLI
 
 ## Contributors Prior to this Repository
 
+- nadrino
 - FairStrides
 - tk102 - Original KSE author
